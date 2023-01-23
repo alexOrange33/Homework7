@@ -1,0 +1,15 @@
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\bin\Debug\net7.0\Example52.exe
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\bin\Debug\net7.0\Example52.deps.json
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\bin\Debug\net7.0\Example52.runtimeconfig.json
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\bin\Debug\net7.0\Example52.dll
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\bin\Debug\net7.0\Example52.pdb
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.csproj.AssemblyReference.cache
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.AssemblyInfoInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.AssemblyInfo.cs
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.csproj.CoreCompileInputs.cache
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.dll
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\refint\Example52.dll
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.pdb
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\Example52.genruntimeconfig.cache
+C:\Users\gubin\OneDrive\Документы\Homework7\Example52\obj\Debug\net7.0\ref\Example52.dll
